@@ -31,5 +31,5 @@ class Raketa:
     def run(self, human):
         print(f'{human} is fly')
 
-Raketa.run(hum.name)
+# Raketa.run(hum.name)
 
