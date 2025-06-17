@@ -43,7 +43,6 @@ amir=Emirlan('Emirlan', 0)
 # amir.set_emirlan('Amir', 12)
 # print(amir.get_emirlan())
 amir.emirlan
-amir.emirlan=
 
 
 
