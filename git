@@ -1,6 +1,7 @@
 git branch
-git checout -b test
-
+git checout -b название
+git merge название
+git branch -d название
 
 
 
