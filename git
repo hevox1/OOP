@@ -7,5 +7,9 @@ git branch -d название
 
 git init
 git add .
-git connit -m'fsdfag'
+git commit -m'fsdfag'
 git push origin master
+
+git remote remove
+git remove --cached
+git rm -r --cached hw
